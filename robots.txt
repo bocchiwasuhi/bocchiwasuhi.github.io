@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocchiwasuhi.github.io/sitemap.xml
